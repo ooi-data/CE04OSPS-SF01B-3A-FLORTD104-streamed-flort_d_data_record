@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE04OSPS-SF01B-3A-FLORTD104-streamed-flort_d_data_record
-last_request: '2021-07-19T17:54:10.898460Z'
+last_request: '2021-08-01T00:56:36.710240Z'
 response: https://raw.githubusercontent.com/ooi-data/CE04OSPS-SF01B-3A-FLORTD104-streamed-flort_d_data_record/main/history/response.json
 status: failed
