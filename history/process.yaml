@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE04OSPS-SF01B-3A-FLORTD104-streamed-flort_d_data_record
 data_stream: CE04OSPS-SF01B-3A-FLORTD104-streamed-flort_d_data_record
 end_date: '2021-10-05T13:37:06.003Z'
-last_updated: '2021-10-06T01:06:39.751948Z'
+last_updated: '2021-10-06T03:37:46.206182'
 start_date: '2014-11-03T22:08:04.000Z'
-status: pending
+status: success
